@@ -63,7 +63,8 @@ modules :
 **5. Builder Authentication with Project Posting**
 
         This separate authentication system for a builder or seller, exists to authenticate each 
-        property listed on the website and aims to allow builders or sellers to separately sell or showcase property.
+        property listed on the website and aims to allow builders or sellers to separately sell 
+        or showcase property.
 
 **6. Review System for User experiences**
 
